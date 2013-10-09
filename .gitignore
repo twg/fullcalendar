@@ -1,5 +1,8 @@
-build/out
-build/archive
+# Allow these in our repo
+!build
+!build/out
+!build/archive
+
 build/bower
 build/cdnjs
 dist

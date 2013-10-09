@@ -1,3 +1,6 @@
+TWG Notes:
+
+* See `tests/list_view.html` for example of custom view in action.
 
 FullCalendar - Full-sized drag & drop event calendar
 ====================================================
