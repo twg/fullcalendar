@@ -1,6 +1,7 @@
 TWG Notes:
 
-* See `demos/list_view.html` for example of custom view in action.
+* See [example of custom view in action](https://rawgithub.com/twg/fullcalendar/list_view/build/archive/demos/list_view.html).
+* Custom files are in `src/list/*`
 
 FullCalendar - Full-sized drag & drop event calendar
 ====================================================
